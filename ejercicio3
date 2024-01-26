@@ -5,3 +5,19 @@ while(contador <=  10){
 console.log(contador);
 contador++;
 }
+
+
+//ejercicio 2
+
+let contador 10
+while(contador > = 0){
+  console.log(contador);
+  contador--;
+}
+
+//ejercicio 3
+
+let numeroMaximo prompt("escriba un numero para la cuenta regresiva");
+while(10){
+
+}
