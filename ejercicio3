@@ -17,7 +17,19 @@ while(contador > = 0){
 
 //ejercicio 3
 
-let numeroMaximo prompt("escriba un numero para la cuenta regresiva");
-while(10){
+let numeroMaximo = prompt("escriba un numero para la cuenta regresiva");
+while(numeroMaximo >= 10){
+console.log(numeroMaximo);
+numeroMaximo--;
+}
+
+//ejercicio 4
+
+let numeroMaximo = prompt("escriba un numero para la cuenta progresiva");
+let contador = 0;
+
+while(contador <= numeroMaximo){
+console.log(contador);
+contador++;
 
 }
